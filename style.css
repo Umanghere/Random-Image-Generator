@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+}
+button{
+    width: 10rem;
+    height: 5rem;
+    border: 0.4rem solid rgb(1, 131, 27);
+    background-color: rgba(18, 255, 1, 0.722);
+    border-radius: 12px;
+    font-size: 1.2rem;
+}
+
+/* #dogImage img{
+    width: 30rem;
+    height: 30rem;
+} */
+
+.button{
+    display: flex;
+    justify-content: center;
+}
