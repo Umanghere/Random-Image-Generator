@@ -1,2 +1,4 @@
 # Random-Image-Generator
-This is a project which use API to generate random images of dogs and then show to web page
+This project is made using HTML, CSS and JavaScript. 
+Used API to generate random images of dogs in the web page.
+Here is the github pages link to the project:- https://umanghere.github.io/Random-Image-Generator/
